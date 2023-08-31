@@ -1,0 +1,28 @@
+11111|The Pink Villa|JP Nagar, Banglore|N|
+23234|THE ROSE WOODS|jp Nagar|N|$
+23235|PHONEX PILLAR|Rajajinagar, Banglore|N|$
+23236|THE BLUE LAKE|Sadashivnagar, Mysore|N|$
+34345|BRIGADE 5BHK|HSR Layout, Banglore|N|$
+34356|THE HEAVEN|RR nagar, Mysore|N|$
+67898|THE SEVEN HILLS|HSR layout, Banglore|N|$
+75673|DREAMLAND VILLA|MG road, Banglore|N|$
+81234|DEVINILAYA|HSR Layout, Bengaluru|Y|$
+86666|THE TAJ|Nandani layout|Y|$
+66221|VINAYAKA NILAYA|Basaveshwaranagar, Banglore|N|$
+66190|SHOBA 3BHK|Nandini Layout|N|$
+41237|GOLD VILLA|Kormangala, Banglore|Y|$
+77812|QT APPARTMENT|Ng road, Chennai|N|$
+82424|PENTAGON VILLA|TR puram, chennai|N|$
+31209|PERL 2BHK|MG Road, Delhi|N|$
+21890|PVR HOUSE|Tr puram, Chennai|N|$
+11112|SHOBA |bg|N|$
+12111|KAVYA|mysore|N|$
+13111|SPOORTHI|kunigal|N|$
+14111|ASHWIN|banglore|Y|$
+23344|HEMMM|jej|Y|$
+12333|H3QK|o3qe|Y|$
+98765|HS VILLA|Bengaluru|Y|$
+99999|CHANDU VILLA|nelmangala|N|$
+55555|CHANDRA|banavara|Y|$
+88888|GOVINDU|herovali|N|$
+99988|HEMU11|bengaluru|Y|$
